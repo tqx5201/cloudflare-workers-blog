@@ -1,7 +1,7 @@
 {
   "name": "cf-workers-blog",
   "compatibility_date": "2025-04-25",
-  "main": "index.ts",
+  "main": "index.js",
   "assets": {
       "directory": "./"
    }
