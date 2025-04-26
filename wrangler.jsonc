@@ -4,5 +4,11 @@
   "main": "index.js",
   "assets": {
       "directory": "./"
-   }
+   },
+  "kv_namespaces": [
+      {
+        "binding": "CFBLOG",
+        "id": "CFBLOG"
+      }
+   ]
 }
